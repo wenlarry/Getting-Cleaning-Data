@@ -1,0 +1,6 @@
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+tidy <- read.table(file = "tidy.txt", sep="\t", header=TRUE)https://github.com/
+
+
+xlarry01x/Getting_Cleaning_Data_Assignment.git
